@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ii-assignment.iml" filepath="$PROJECT_DIR$/ii-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ii-assignment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ii-assignment_main.iml" group="ii-assignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ii-assignment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ii-assignment_test.iml" group="ii-assignment" />
+    </modules>
+  </component>
+</project>
